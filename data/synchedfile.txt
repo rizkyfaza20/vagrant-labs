@@ -1,3 +1,1 @@
-This file will be shared to virtual machines
-
-these changes will be synched
+Changes from the file to linux vagrant server.
